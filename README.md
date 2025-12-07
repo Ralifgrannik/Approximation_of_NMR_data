@@ -6,7 +6,11 @@ https://drive.google.com/drive/folders/1OEft7p4sze9gBZsQerY5Q2LAXrNj-Bdp?usp=sha
 
 <img width="1276" height="912" alt="Frame 2 (1)" src="https://github.com/user-attachments/assets/0ddfdf29-f365-4a7f-b0a6-d3bd6453a7a7" />
 
----
+
+
+
+
+
 ## Description (Описание)
 Programs for approximating relaxation attenuations (determination of components and their relaxation times T2 using neural networks). The model recognizes up to 4 components. Training takes place for T2 times from 0.1s to 5s. The minimum possible component is 0.1.
 In the repository:
@@ -26,8 +30,9 @@ In the repository:
 - All.ipynb (общий файл со всеми блоками кода для удобства работы)
 - NMR_T2_Analyzer.py (код, для создания приложеня .exe)
 
+
+
   
----
 
 
 ## Инструкция по скачиванию приложения:
@@ -39,7 +44,7 @@ In the repository:
    
 В случае, если вы обучили модель в Google Colab и получили лучшие значения при аппроксимации, чем в данной версии приложения, то можете заменить файл best_nmr_param_cnn.pth на свою версию.
 
-  
+
 ## Instructions for downloading the app:  
 
 1. Download the archive from Google Drive (download link at the very beginning at the top).  
