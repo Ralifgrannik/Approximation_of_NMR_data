@@ -29,12 +29,13 @@ In the repository:
 
 
 ## Инструкция по скачиванию приложения:
-Скачайте архив с Google Диска (ссылка на скачивание в самом начале вверху).
-Разархивируйте архив в любую удобную для вас директорию. В папке вы найдете папку dist, в которой будет приложение .exe. Ни в коем случае не вытаскивайте его оттуда. Нажмите на приложение правой кнопкой мыши, копируйте его и вставьте ярлык на рабочий стол. 
+Скачайте архив с Google Диска (ссылка на скачивание в самом начале вверху).  
+Разархивируйте архив в любую удобную для вас директорию.  
+В папке вы найдете папку dist, в которой будет приложение .exe. Ни в коем случае не вытаскивайте его оттуда. Нажмите на приложение правой кнопкой мыши, копируйте его и вставьте ярлык на рабочий стол. 
 В случае, если вы обучили модель в Google Colab и получили лучшие значения при аппроксимации, чем в данной версии приложения, то можете заменить файл best_nmr_param_cnn.pth на свою версию.
 
 ## Instructions for downloading the app:
-Download the archive from Google Drive (download link at the very beginning at the top).
+Download the archive from Google Drive (download link at the very beginning at the top).  
 Unzip the archive to any directory convenient for you. In the folder you will find the dist folder, which will contain the .exe application. In any case, do not pull it out of there. Right-click on the application, copy it and paste the shortcut to the desktop. 
 If you trained the model in Google Colab and got better approximation values than in this version of the application, you can replace the best_nmr_param_cnn.pth file with your own version.
 
