@@ -1,5 +1,7 @@
 ---
-Приложение для аппроксимации релаксационных затуханий
+Приложение для аппроксимации релаксационных затуханий.
+Link to the application(Ссылка на приложение):
+https://drive.google.com/drive/folders/1OEft7p4sze9gBZsQerY5Q2LAXrNj-Bdp?usp=sharing
 
 <img width="1276" height="912" alt="Frame 2 (1)" src="https://github.com/user-attachments/assets/7fbaeff5-03ee-49c6-8fcf-588bfcd1b501" />
 
@@ -24,15 +26,14 @@ In the repository:
 - NMR_T2_Analyzer.py (код, для создания приложеня .exe)
 ---
 
-## Инструкция по скачиванию приложения
-Link to the application(Ссылка на приложение):
-https://drive.google.com/drive/folders/1OEft7p4sze9gBZsQerY5Q2LAXrNj-Bdp?usp=sharing
 
-## Инструкция:
+## Инструкция по скачиванию приложения:
+Скачайте архив с Google Диска (ссылка на скачивание в самом начале вверху).
 Разархивируйте архив в любую удобную для вас директорию. В папке вы найдете папку dist, в которой будет приложение .exe. Ни в коем случае не вытаскивайте его оттуда. Нажмите на приложение правой кнопкой мыши, копируйте его и вставьте ярлык на рабочий стол. 
 В случае, если вы обучили модель в Google Colab и получили лучшие значения при аппроксимации, чем в данной версии приложения, то можете заменить файл best_nmr_param_cnn.pth на свою версию.
 
-Instructions:
+## Instructions for downloading the app:
+Download the archive from Google Drive (download link at the very beginning at the top).
 Unzip the archive to any directory convenient for you. In the folder you will find the dist folder, which will contain the .exe application. In any case, do not pull it out of there. Right-click on the application, copy it and paste the shortcut to the desktop. 
 If you trained the model in Google Colab and got better approximation values than in this version of the application, you can replace the best_nmr_param_cnn.pth file with your own version.
 
