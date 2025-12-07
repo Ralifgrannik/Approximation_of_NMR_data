@@ -1,8 +1,7 @@
 ---
 Приложение для аппроксимации релаксационных затуханий
 
-<img width="1276" height="912" alt="image" src="https://github.com/user-attachments/assets/08954ce0-0aaf-4075-a088-770b804918d9" />
-
+<img width="1276" height="912" alt="Frame 2 (1)" src="https://github.com/user-attachments/assets/7fbaeff5-03ee-49c6-8fcf-588bfcd1b501" />
 
 ---
 # Approximation-of-NMR-data
