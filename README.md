@@ -1,6 +1,6 @@
----
 Приложение для аппроксимации релаксационных затуханий.
-Link to the application(Ссылка на приложение):
+
+**Link to the application (Ссылка на приложение):**  
 https://drive.google.com/drive/folders/1OEft7p4sze9gBZsQerY5Q2LAXrNj-Bdp?usp=sharing
 
 <img width="1276" height="912" alt="Frame 2 (1)" src="https://github.com/user-attachments/assets/0ddfdf29-f365-4a7f-b0a6-d3bd6453a7a7" />
