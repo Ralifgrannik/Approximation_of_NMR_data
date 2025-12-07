@@ -1,4 +1,5 @@
-## Приложение для аппроксимации релаксационных затуханий.
+# NMR T2 Relaxation Analyzer
+## Application for approximation of relaxation attenuations using neural networks (Приложение для аппроксимации релаксационных затуханий с использованием нейросетей) 
 
 **Link to the application (Ссылка на приложение):**  
 https://drive.google.com/drive/folders/1OEft7p4sze9gBZsQerY5Q2LAXrNj-Bdp?usp=sharing
