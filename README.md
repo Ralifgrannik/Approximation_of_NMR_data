@@ -6,9 +6,9 @@ https://drive.google.com/drive/folders/1OEft7p4sze9gBZsQerY5Q2LAXrNj-Bdp?usp=sha
 
 <img width="1276" height="912" alt="Frame 2 (1)" src="https://github.com/user-attachments/assets/0ddfdf29-f365-4a7f-b0a6-d3bd6453a7a7" />
 
-
-
-
+  
+  
+  
 
 
 ## Description (Описание)
